@@ -7,4 +7,4 @@ For most of the methods there is several versions of them according to parameter
 There is demonstration of the methods on Logistic map and the grpahics shows the estimated value of chaos on the bifurcation diagram.
 
 
-The computation of the final graphic (FinalPic.png) takes some time (cca 3 hours on Inte I7 7th. gen.) in order to get faster result lower the iterations to e.g. 100, EnD2 = 100;
+The computation of the final graphic (FinalPic.png) takes some time (cca 3 hours on Intel i7 7th. gen.) in order to get faster result lower the iterations to e.g. 100, EnD2 = 100;
